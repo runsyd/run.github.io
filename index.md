@@ -25,6 +25,4 @@ Hi, I'm Mona. You might recognize me as GitHub's mascot.
 
 — Mona the Octocat
 
-## About me
-
 <!-- TO DO: add more details about me later -->
